@@ -1,0 +1,2 @@
+# Persistencia-de-Dados-Java-e-JDBC
+Este projeto em Java demonstra a persistência de dados utilizando JDBC para interagir com um banco de dados relacional. Implementa um sistema de cadastro de pessoas físicas e jurídicas, abordando conceitos de Programação Orientada a Objetos e diferentes estratégias para representar herança em um modelo de banco de dados. O sistema permite incluir, alterar, excluir, buscar e listar pessoas, além de tratar exceções e fornecer uma interface de interação via texto.
